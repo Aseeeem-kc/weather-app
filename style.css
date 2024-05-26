@@ -21,7 +21,7 @@ main {
   width: 1200px;
   background-color: rgba(53, 51, 51, 0.3);
   position: relative;
-  top: 170px;
+  top: 165px;
   border-radius: 12px;
   display: flex;
 }
